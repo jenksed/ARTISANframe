@@ -1,0 +1,1 @@
+// Artist profile component
